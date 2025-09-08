@@ -53,3 +53,4 @@ It helps business stakeholders make data-driven decisions by monitoring KPIs, id
 Data Modeling (relationships between tables)
 
 ETL in Power Query for data cleaning and transformation
+
